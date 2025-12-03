@@ -1,5 +1,4 @@
-Intelligent CPU Scheduler Simulator
-Description:
+Intelligent CPU Scheduler Simulator:
 
 This is a simple CPU scheduling simulator that supports four different scheduling algorithms:
 First-Come, First-Served (FCFS)
